@@ -1,1 +1,23 @@
-/* Your styles go here */
+
+
+.aa{ position:absolute; border:50px;height:60px; width:800px; margin-top:-40px; margin-left:200px; background-color:;  }
+.aa ul li{list-style-type:none; display:inline; padding:0;} 
+.aa ul li a:hover {background-color:#006633; text-decoration:none;color:#FFCC33; }
+
+.aa  ul li a {color: #FFFFFF;background: #006633;display:inline; height:40px; line-height:60px;
+ padding:17px 40px 20px 40px; text-decoration:none; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:20px; }
+
+.aa ul li:hover a {background-color:#009933; text-decoration:none; color:#FFCC33;} 
+
+#foot1 {position:absolute; border:50px;height:220px; width:1350px; margin-top:-15px; margin-left:-10px; background-color:#006633; }
+#foot2{position:absolute; border:50px;height:80px; width:1350px; margin-top:205px; margin-left:-10px; background-color:#009966;}
+#same{ font-family:Geneva; font-size:18px}
+
+.socialm img{ border-radius:8px;} .socialme img{ border-radius:25px;}
+
+
+
+
+
+
+
